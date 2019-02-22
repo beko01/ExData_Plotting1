@@ -3,6 +3,8 @@
 # Cheng-Han Yu
 ################################################################################
 ## load the data
+
+
 getwd()
 setwd("C:/Users/beko/Desktop/datasciencecoursera/Exploratory_data_analysis/Project/data")
 library(datasets)
